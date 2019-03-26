@@ -2,7 +2,8 @@ The Rainbow an the Unicorn
 
 yellow
 red
-black 
+black
+indigo 
 green
 UNICORN
 orange

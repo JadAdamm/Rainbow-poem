@@ -1,6 +1,8 @@
 The Rainbow
 
+yellow
 red
 black 
 green 
 orange
+
